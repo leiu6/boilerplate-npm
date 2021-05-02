@@ -1,5 +1,6 @@
 {
 	"author": "Leighton Mitchell",
+	"description": "Learning how to use Node.js and NPM to make microservices",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
